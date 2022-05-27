@@ -1,4 +1,4 @@
-This repository has R codes for Sampling-based Gaussian Mixture Regression for Big Data by JooChul Lee1, Elizabeth D. Schifano1, and HaiYing Wang.
+This repository has R codes for Sampling-based Gaussian Mixture Regression for Big Data by JooChul Lee, Elizabeth D. Schifano, and HaiYing Wang.
 
 Datageneration.R generate simulated data
 
